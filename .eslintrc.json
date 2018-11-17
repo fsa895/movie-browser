@@ -1,0 +1,17 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "react/destructuring-assignment": [
+            "disable",
+            "never"
+        ],
+        "react/prefer-stateless-function":[
+            "disable",
+            "never"             
+        ],
+        "react/no-array-index-key":[
+            "disable",
+            "never"
+        ]
+    }
+}
